@@ -4,8 +4,9 @@
 
 <div align="center">
 
-# 🇲🇲 LEO HTET AUNG (M4RMU)
-### `AI Technologist` | `Full-Stack Developer` | `Local LLM Enthusiast`
+# LEO HTET AUNG 
+🇲🇲 (M4RMU)
+### `AI Technologist` | `Full-Stack Developer` | `Digital-Artist` | `Local LLM Enthusiast` | `Digital Creator`
 
 </div>
 
