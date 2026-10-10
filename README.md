@@ -1,11 +1,22 @@
 
 <!-- Sci-Fi / Cyberpunk Dynamic Header Widget -->
-![](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=MARMU-OS%20SYSTEM%20v3.2&fontSize=50&fontColor=ffffff&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=MARMU-OS%20SYSTEM%20version&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 <div align="center">
+
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=green)
+
+![Linux](https://img.shields.io/badge/Linux-222000?style=for-the-badge&logo=gnu-bash&logoColor=green)  
+
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-111100?style=for-the-badge&logo=gnu-bash&logoColor=red) 
+
+
 # LEO HTET AUNG 
 🇲🇲 (M4RMU)
-### `AI Technologist` | `Full-Stack Developer` | `Digital-Artist` | `Local LLM Enthusiast` | `Digital Creator`
+
+###  `AI Technologist`  `Full-Stack Developer`  `Digital-Artist`  `Local LLM Enthusiast`  `Digital Creator` 
+
+
 </div>
 
 ---
@@ -19,7 +30,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🤖 AI & LLM Technologies
+#### 👾 AI & LLM Technologies
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
@@ -30,18 +41,18 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🛸 Featured Projects
 
 | Project Name | Description | Status |
 | :--- | :--- | :---: |
 | 🌐 **Infinity Alpha 2.0** | Personal Web Portfolio & AI Platform | `Active` |
 | 🛠 **Banner-Pro** | Open-source Termux Customization Utility Tool | `Apache 2.0` |
-| 🤖 **StreamForge AI** | Interactive Telegram AI Bots with Python SDK | `![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white)Deployed` |
-| 👥 **Techno Ai Burma** | Virtual Community Platform & Educational Tech Hub | `Community` |
+| 🦋 **StreamForge AI** | Interactive Telegram AI Bots with Python SDK | `![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white)Deployed` |
+| ⭐ **Techno Ai Burma** | Virtual Community Platform & Educational Tech Hub | `Community` |
 
 ---
 
-### 📊 GitHub System Matrix
+### 🍁 GitHub System Matrix
 
 <div align="center">
 
@@ -53,11 +64,11 @@
 
 ---
 
-### 📬 Connect with System
+### 📬💌 Connect with System
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-DE24A1?style=for-the-badge&logo=telegram&logoColor=white)](mailto:leo.aidev69@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](mailto:leo.aidev69@gmail.com)
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BayBDragon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.aidev69@gmail.com)
