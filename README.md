@@ -1,19 +1,11 @@
-<div align="center">
-
-# 🌌 LEO HTET AUNG
-### `AI Technologist` | `Full-Stack Developer` | `Local LLM Enthusiast`
 
 <!-- Sci-Fi / Cyberpunk Dynamic Header Widget -->
-![](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=LEO-OS%20SYSTEM%20v3.2&fontSize=50&fontColor=ffffff&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=MARMU-OS%20SYSTEM%20v3.2&fontSize=50&fontColor=ffffff&animation=twinkling)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leo-dev69&theme=cyber-streakglow&hide_border=true&locale=my&card_width=350&card_height=165)](https://git.io/streak-stats)
+<div align="center">
 
-[System Log]: Kernel version Initialized ... [OK]
-[Status]: Computer Science | Local Open-Source LLM Developer
-[Core]: Termux / Linux / Kali Linux 
-[Studio] Google/ Qwen / Openai / llama.cpp 
-[Cloud]: Google & Azure Integration
-
+# 🇲🇲 LEO HTET AUNG (M4RMU)
+### `AI Technologist` | `Full-Stack Developer` | `Local LLM Enthusiast`
 
 </div>
 
@@ -30,9 +22,12 @@
 
 #### 🤖 AI & LLM Technologies
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white)
+
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=green)
+
+![Claude](https://img.shields.io/badge/Claude-111222?style=for-the-badge&logo=Claude&logoColor=white)
 
 ---
 
@@ -42,7 +37,7 @@
 | :--- | :--- | :---: |
 | 🌐 **Infinity Alpha 2.0** | Personal Web Portfolio & AI Platform | `Active` |
 | 🛠 **Banner-Pro** | Open-source Termux Customization Utility Tool | `Apache 2.0` |
-| 🤖 **StreamForge AI** | Interactive Telegram AI Bots with Python SDK | `Deployed` |
+| 🤖 **StreamForge AI** | Interactive Telegram AI Bots with Python SDK | `![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white)Deployed` |
 | 👥 **Techno Ai Burma** | Virtual Community Platform & Educational Tech Hub | `Community` |
 
 ---
@@ -62,7 +57,9 @@
 ### 📬 Connect with System
 
 <div align="center">
-
+  
+[![Telegram](https://img.shields.io/badge/Telegram-E00236?style=for-the-badge&logo=telegram&logoColor=white)](mailto:leo.aidev69@gmail.com)
+  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BayBDragon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.aidev69@gmail.com)
 
@@ -101,8 +98,10 @@ Here are some ideas to get you started:
   <img src ="https://streak-stats.demolab.com?user=heliomarpm&theme=dracula&hide_border=true&locale=pt_BR&background=FFFFFF00">
 
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=heliomarpm&right_color=DarkGoldenrod"> -->
- <img src="https://komarev.com/ghpvc/?username=heliomarpm&style=for-the-badge&color=orange"> -->
+ <img src="https://komarev.com/ghpvc/?username=heliomarpm&style=for-the-badge&color=orange"> 
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=leo-dev69&theme=cyber-streakglow&hide_border=true&locale=my&card_width=350&card_height=165)](https://git.io/streak-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 </div>
