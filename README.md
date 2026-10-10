@@ -3,11 +3,9 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=MARMU-OS%20SYSTEM%20v3.2&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 <div align="center">
-
 # LEO HTET AUNG 
 🇲🇲 (M4RMU)
 ### `AI Technologist` | `Full-Stack Developer` | `Digital-Artist` | `Local LLM Enthusiast` | `Digital Creator`
-
 </div>
 
 ---
@@ -59,7 +57,7 @@
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-E00236?style=for-the-badge&logo=telegram&logoColor=white)](mailto:leo.aidev69@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](mailto:leo.aidev69@gmail.com)
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BayBDragon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.aidev69@gmail.com)
